@@ -1,0 +1,23 @@
+2020-05-02 18:25:29,725 - numexpr.utils - INFO - Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2020-05-02 18:25:29,726 - numexpr.utils - INFO - NumExpr defaulting to 8 threads.
+2020-05-02 18:26:36,987 - tensorflow - WARNING - From /Users/rajas/opt/anaconda3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:74: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2020-05-02 18:26:36,991 - tensorflow - WARNING - From /Users/rajas/opt/anaconda3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:517: The name tf.placeholder is deprecated. Please use tf.compat.v1.placeholder instead.
+
+2020-05-02 18:26:36,996 - tensorflow - WARNING - From /Users/rajas/opt/anaconda3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:4138: The name tf.random_uniform is deprecated. Please use tf.random.uniform instead.
+
+2020-05-02 18:27:46,627 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.5, 'c2': 0.3, 'w': 0.9}
+2020-05-02 18:27:46,630 - tensorflow - WARNING - From /Users/rajas/opt/anaconda3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:174: The name tf.get_default_session is deprecated. Please use tf.compat.v1.get_default_session instead.
+
+2020-05-02 18:27:46,631 - tensorflow - WARNING - From /Users/rajas/opt/anaconda3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:181: The name tf.ConfigProto is deprecated. Please use tf.compat.v1.ConfigProto instead.
+
+2020-05-02 18:27:46,633 - tensorflow - WARNING - From /Users/rajas/opt/anaconda3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:186: The name tf.Session is deprecated. Please use tf.compat.v1.Session instead.
+
+2020-05-02 18:27:46,637 - tensorflow - WARNING - From /Users/rajas/opt/anaconda3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:190: The name tf.global_variables is deprecated. Please use tf.compat.v1.global_variables instead.
+
+2020-05-02 18:27:46,639 - tensorflow - WARNING - From /Users/rajas/opt/anaconda3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:199: The name tf.is_variable_initialized is deprecated. Please use tf.compat.v1.is_variable_initialized instead.
+
+2020-05-02 18:27:46,684 - tensorflow - WARNING - From /Users/rajas/opt/anaconda3/lib/python3.7/site-packages/keras/backend/tensorflow_backend.py:206: The name tf.variables_initializer is deprecated. Please use tf.compat.v1.variables_initializer instead.
+
+2020-05-02 18:29:58,068 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.023426681918342723, best pos: [-0.23435307 -1.22267425 -0.11845802 ...  0.08101619  0.18598424
+  1.73955696]
