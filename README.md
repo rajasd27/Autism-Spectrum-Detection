@@ -47,3 +47,6 @@ A comparative study of accuracies, errors and other metrics which will give an o
 
 - ```Particle Swarm Optimization``` : Contains implementation of Particle Swarm Optimization and a snapshot of the result.
 
+## Final Report
+
+The final report of the entire algorithm analysis and implementation can be found [here](https://github.com/rajasd27/Autism-Spectrum-Detection/blob/master/Final%20Report.pdf)
