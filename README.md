@@ -2,13 +2,6 @@
 
 A COMPARITIVE STUDY OF NATURE-INSPIRED ALGORITHMS FOR AUSTISM SPECTRUM DISORDER(ASD) DETECTION
 
-## Contents
-
-### [Problem Statement](#problem-statement-1)
-### [Dataset](#dataset-1)
-### [Implementation Details](#implementation-details-1)
-### [Expected Outcome](#expected-outcome-1)
-
 ## Problem Statement
 
 Perform a comparative study of five nature-inspired optimization algorithms for detecting autism in young adults. 
@@ -33,3 +26,24 @@ A python library SwarmPackagePy will be used for implementing these optimization
 ## Expected Outcome
 
 A comparative study of accuracies, errors and other metrics which will give an overview of the best nature-inspired optimization algorithm for detecting ASD.
+
+## Files Description
+
+- ```Bat Algorithm``` : Contains implementation of Bat Algorithm, a snapshot of results and a snapshot of behaviour of the minimization function.
+
+- ```Cat Swarm Optimization``` : Contains implementation of Cat Swarm Optimization, a snapshot of results and a snapshot of behaviour of the minimization function.
+
+- ```Cuckoo Search Optimization``` : Contains implementation of Cuckoo Search Optimizatio, a snapshot of results and a snapshot of behaviour of the minimization function.
+
+- ```Data Preprocessing``` : Contains code for preprocessing the raw data.
+
+- ```Datasets``` : Contains all the raw datasets and the final cleaned dataset under the name of "Final_Dataset.csv".
+
+- ```Firefly Algorithm``` : Contains implementation of Firefly Algorithm, a snapshot of results and a snapshot of behaviour of the minimization function.
+
+- ```Gray Wolf Optimization``` : Contains implementation of Gray Wolf Optimization, a snapshot of results and a snapshot of behaviour of the minimization function.
+
+- ```Neural Network Model``` : Contains implementation of Backpropagation Algorithm and snapshots of results, epochs vs loss and epochs vs accuracy graphs
+
+- ```Particle Swarm Optimization``` : Contains implementation of Particle Swarm Optimization and a snapshot of the result.
+
