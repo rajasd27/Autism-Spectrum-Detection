@@ -21,7 +21,7 @@ In this comparative study, we plan to implement five different nature-inspired o
 - Firefly Algorithm
 - Bat Algorithm
 
-A python library SwarmPackagePy will be used for implementing these optimization approaches. We intend to design a feed-forward neural network model and find out the best weights of the neural net model using these different approaches.
+A python library [SwarmPackagePy](https://github.com/SISDevelop/SwarmPackagePy) will be used for implementing these optimization approaches. We intend to design a feed-forward neural network model and find out the best weights of the neural net model using these different approaches.
 
 ## Expected Outcome
 
