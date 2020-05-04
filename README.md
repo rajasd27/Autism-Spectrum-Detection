@@ -2,10 +2,12 @@
 
 A COMPARITIVE STUDY OF NATURE-INSPIRED ALGORITHMS FOR AUSTISM SPECTRUM DISORDER(ASD) DETECTION
 
-## Problem Statement
-## Dataset
-## Implementation Details
-## Expected Outcome
+## Contents
+
+### [Problem Statement](#problem-statement-1)
+### [Dataset](#dataset-1)
+### [Implementation Details](#implementation-details-1)
+### [Expected Outcome](#expected-outcome-1)
 
 ## Problem Statement – 
 
